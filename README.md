@@ -7,11 +7,11 @@
 
 ### Last
 
-- TBS
+- [docker hub wiremock-docker-record](https://hub.docker.com/repository/docker/dantmcgowan/wiremock-docker-record)
 
 ### Complete list
 
-TBS
+[Tags](https://hub.docker.com/repository/docker/dantmcgowan/wiremock-docker-record/tags)
 
 ## The image includes
 
@@ -26,8 +26,8 @@ TBS
 
 - `uid` : the container executor uid, useful to avoid file creation owned by root
 - `JAVA_OPTS` : for passing any custom options to Java e.g. `-Xmx128m`
-- `ENV PROXY_ALL https://httpbin.org` // A simple REST service
-- `ENV MATCH_HEADERS Accept,Accept-Encoding,Content-Type,Client-Token` // The headers you want to match for the mock request 
+- `ENV PROXY_ALL https://httpbin.org` : A simple REST service
+- `ENV MATCH_HEADERS Accept,Accept-Encoding,Content-Type,Client-Token` : The headers you want to match for the mock request 
 
 #### Getting started
 
