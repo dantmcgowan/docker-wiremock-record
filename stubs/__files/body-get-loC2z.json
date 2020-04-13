@@ -1,0 +1,14 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "application/json", 
+    "Accept-Encoding": "deflate", 
+    "Client-Token": "swagger-test", 
+    "Content-Type": "application/json", 
+    "Host": "localhost", 
+    "User-Agent": "curl/7.64.1", 
+    "X-Amzn-Trace-Id": "Root=1-5e948d8f-a69f81d87d34bb9628b575ee"
+  }, 
+  "origin": "173.209.86.150", 
+  "url": "https://localhost/get"
+}

@@ -1,0 +1,3 @@
+# copy sample file to docker-compose.override.yml
+version: '3.2'
+# your overrides follow

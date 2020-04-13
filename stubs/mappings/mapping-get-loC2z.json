@@ -1,0 +1,31 @@
+{
+  "id" : "75a9a23b-d845-322e-a456-399ce05e453c",
+  "request" : {
+    "url" : "/get",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "application/json"
+      },
+      "Accept-Encoding" : {
+        "equalTo" : "deflate"
+      },
+      "Client-Token" : {
+        "equalTo" : "swagger-test"
+      },
+      "Content-Type" : {
+        "equalTo" : "application/json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-get-loC2z.json",
+    "headers" : {
+      "Date" : "Mon, 13 Apr 2020 16:04:31 GMT",
+      "Content-Type" : "application/json",
+      "Server" : "gunicorn/19.9.0"
+    }
+  },
+  "uuid" : "75a9a23b-d845-322e-a456-399ce05e453c"
+}

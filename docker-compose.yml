@@ -1,0 +1,11 @@
+version: '3.2'
+
+services:
+  wiremock-docker-record:
+    image: wiremock-docker-record
+    container_name: wiremock-docker-record
+    volumes:
+      - ./stubs:/home/wiremock
+    ports:
+      - 8080:8080
+
