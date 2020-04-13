@@ -1,7 +1,7 @@
 # Wiremock Docker Record
  
 ## Record mode image
- [Wiremock server](http://wiremock.org) built upon [wiremock-docker][https://github.com/rodolpheche/wiremock-docker
+ [Wiremock server](http://wiremock.org) built upon [wiremock-docker](https://github.com/rodolpheche/wiremock-docker)
 
 ## Supported tags :
 
